@@ -8,12 +8,9 @@ A curated list of research papers on recommender systems beyond accuracy metrics
   - [Diversity](#diversity)
   - [Serendipity](#serendipity)
   - [Novelty](#novelty)
-  - [Coverage](#coverage)
   - [Fairness](#fairness)
 - [Resources](#resources)
   - [Datasets](#datasets)
-  - [Tools](#tools)
-  - [Conferences](#conferences)
 - [Contributing](#contributing)
 - [License](#license)
 
